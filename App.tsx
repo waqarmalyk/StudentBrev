@@ -441,7 +441,6 @@ export default function App() {
         </View>
       </ScrollView>
 
-      {/* Simple dropdown menu */}
       <Modal
         transparent
         visible={menuVisible}
