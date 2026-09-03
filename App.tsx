@@ -435,7 +435,7 @@ export default function App() {
             </Pressable>
 
             <Text style={styles.validityText}>
-              Valid from 01.01.26 through 31.08.26
+              Valid from 01.01.26 through 31.08.27
             </Text>
           </View>
         </View>
